@@ -7,4 +7,20 @@ img{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    gap: 2rem;
+}
+
+
+.flex-row{
+    display:flex;
+    flex-direction: row;
+}
+
+.flex-wrap{
+    display:flex;
+    flex-direction: wrap;
+}
+
+.aaa{
+    
 }
